@@ -21,7 +21,6 @@ void draw()
 		rob[c].show();
 		value=value+rob[c].n;
 	}
-	System.out.println(value);
 	textSize(22);
 	text(value,240,260);
 	//your code here
